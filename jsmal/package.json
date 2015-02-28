@@ -1,0 +1,15 @@
+{
+  "name": "jsmal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^4.6.1",
+    "babel-eslint": "^1.0.12"
+  }
+}

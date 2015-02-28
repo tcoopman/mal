@@ -1,6 +1,7 @@
 */experiments
 make/mal.mk
 js/node_modules
+jsmal/node_modules
 js/mal.js
 js/mal_web.js
 coffee/node_modules
