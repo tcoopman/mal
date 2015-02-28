@@ -1,3 +1,4 @@
+/* @flow */
 import readline from 'readline';
 
 
@@ -37,7 +38,7 @@ function main() {
 
   rl.on('close', () => {
     console.log('Exiting');
-    process.exit(0);
+    return;
   });
 }
 

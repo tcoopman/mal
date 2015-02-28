@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "babel": "^4.6.1",
-    "babel-eslint": "^1.0.12"
+    "babel-eslint": "^1.0.12",
+    "flow-bin": "^0.4.0"
   }
 }
